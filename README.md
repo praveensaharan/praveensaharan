@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NEXT.js and ML**
 
-- 👯 I’m looking to collaborate on [NFT Gating](https://github.com/praveensaharan/postman)
+- 👯 I’m looking to collaborate on [NFT Gating](https://github.com/praveensaharan/nftgaiting)
 
 - 🤝 I’m looking for help with [Codify-Chrome Extension](https://github.com/praveensaharan/chromexbackend)
 
