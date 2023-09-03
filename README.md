@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **praveensaharan2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kirDSy3h9jCveBkILYpmyHysT44x-hao/view?usp=sharing](https://drive.google.com/file/d/1kirDSy3h9jCveBkILYpmyHysT44x-hao/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Z6fK2cwQCIYB9PZW8_Cqtr3Fu9WLEI_C/view?usp=drive_link](https://drive.google.com/file/d/1Z6fK2cwQCIYB9PZW8_Cqtr3Fu9WLEI_C/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Not Smart 😅**
 
