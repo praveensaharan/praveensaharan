@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveensaharan&label=Profile%20views&color=0e75b6&style=flat" alt="praveensaharan" /> </p>
 
-- 🔭 I’m currently working on [BestFit](https://bestfit-tailor.netlify.app/login)
+- 🔭 I’m currently working on [BestFit](https://bestfit-tailor.netlify.app)
 
 - 🌱 I’m currently learning **NEXT.js and ML**
 
