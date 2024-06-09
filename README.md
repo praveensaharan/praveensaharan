@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 💬 Ask me about **react, flask and Nodejs**
+- 💬 Ask me about **Python, React, Node.js, MongoDB, SQL, JavaScript, Flask, FastAPI, Redis, Golang, and AWS**
 
 - 📫 How to reach me **praveensaharan2002@gmail.com**
 
