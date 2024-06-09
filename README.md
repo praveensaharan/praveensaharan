@@ -5,23 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveensaharan&label=Profile%20views&color=0e75b6&style=flat" alt="praveensaharan" /> </p>
 
-- 🔭 I’m currently working on [BestFit](https://bestfit-tailor.netlify.app)
+- 🔭 My Personal Project [BestFit](https://bestfit-tailor.netlify.app)
 
-- 🌱 I’m currently learning **NEXT.js and ML**
-
-- 👯 I’m looking to collaborate on [NFT Gating](https://github.com/praveensaharan/nftgaiting)
-
-- 🤝 I’m looking for help with [Codify-Chrome Extension](https://github.com/praveensaharan/chromexbackend)
-
-- 👨‍💻 All of my projects are available at [https://praveenreactspace.netlify.app/](https://praveenreactspace.netlify.app/)
-
-- 📝 I regularly write articles on [https://rococo-bavarois-fa6bdb.netlify.app/](https://rococo-bavarois-fa6bdb.netlify.app/)
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **react, flask and Nodejs**
 
 - 📫 How to reach me **praveensaharan2002@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/13XP-DKa9CQTPhkTMU2X6xQ5tBGzhsSOm/view?usp=drive_link](https://drive.google.com/file/d/13XP-DKa9CQTPhkTMU2X6xQ5tBGzhsSOm/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Not Smart 😅**
 
