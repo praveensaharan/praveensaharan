@@ -1,9 +1,23 @@
 
-
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>...................Hi 👋, I'm Praveen</h1>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> 
+  Hi there, I'm Praveen 
+  <img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/heart_eyes.gif?1471045852" width="40"/>
+</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=praveensaharan&label=Profile%20views&color=0e75b6&style=flat" alt="praveensaharan" />
+  <img src="https://img.shields.io/github/followers/praveensaharan?label=Followers" alt="Followers"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveensaharan&label=Profile%20views&color=0e75b6&style=flat" alt="praveensaharan" /> </p>
+</p>
+<p align="center">
+  <a href="https://bestfit-tailor.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Project-BestFit-blue" alt="BestFit"/>
+  </a>
+  <a href="https://twitter.com/praveen40109" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/praveen40109?style=social" alt="Twitter"/>
+  </a>
+</p>
 
 - 🔭 My Personal Project [BestFit](https://bestfit-tailor.netlify.app)
 
@@ -17,11 +31,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/praveen40109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praveen40109" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/praveen-saharan-2a0318203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen-saharan-2a0318203/" height="30" width="40" /></a>
-<a href="https://instagram.com/_praveen_saharan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_praveen_saharan_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/praveen40109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praveen40109" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/praveensaharan2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="praveensaharan2002" height="30" width="40" /></a>
+  <a href="https://twitter.com/praveen40109" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praveen40109" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/praveen-saharan-2a0318203/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen-saharan-2a0318203" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_praveen_saharan_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_praveen_saharan_" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/praveen40109" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praveen40109" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/praveensaharan2002" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="praveensaharan2002" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
