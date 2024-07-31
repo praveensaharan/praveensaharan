@@ -19,7 +19,6 @@
   </a>
 </p>
 
-- 🔭 My Personal Project [BestFit](https://bestfit-tailor.netlify.app)
 
 - 🌱 I’m currently learning **ML**
 
