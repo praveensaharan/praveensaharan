@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/praveen-saharan-2a0318203/"><img src="https://img.shields.io/badge/LinkedIn-Praveen_Saharan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/praveensaharan/"><img src="https://img.shields.io/badge/LinkedIn-Praveen_Saharan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:praveensaharan2002@gmail.com"><img src="https://img.shields.io/badge/Email-praveensaharan2002%40gmail.com-444444?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://leetcode.com/praveen40109"><img src="https://img.shields.io/badge/LeetCode-praveen40109-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
