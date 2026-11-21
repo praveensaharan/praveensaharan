@@ -1,133 +1,55 @@
-<div align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Praveen;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
-</div>
+<h1 align="center">Praveen Saharan</h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=praveensaharan&label=Profile%20views&color=0891b2&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/praveensaharan?label=Followers&style=for-the-badge&color=0891b2" alt="Followers"/>
-</div>
+<p align="center">
+  Full-stack and AI engineer. I build agent systems and data products end to end,<br>
+  from the model calls to the interface people use.<br>
+  <sub>IIT Bombay &nbsp;|&nbsp; Based in Japan</sub>
+</p>
 
-<br/>
-
-<div align="center">
-  <a href="https://emails-credit.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Project-EmailsCredit-00d4aa?style=for-the-badge&logoColor=white" alt="EmailsCredit" />
-  </a>
-  <a href="https://locovate-foursquare-hackathon.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Project-Locovate-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Locovate" />
-  </a>
-</div>
-
-<br/>
-
-## About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-- Building scalable web applications with modern tech stack
-- Currently diving deep into **Machine Learning & AI**
-- Love exploring **Cloud Technologies** and **DevOps**
-- 2024 Goal: Contribute to open source projects
-- Ask me about **Python, React, Node.js, MongoDB, AWS**
-- Reach me: **praveensaharan2002@gmail.com**
-- Fun fact: **Code is poetry in motion**
-
-<br clear="both"/>
-
-## Connect with me
-
-<div align="center">
-  <a href="https://linkedin.com/in/praveen-saharan-2a0318203/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/praveen40109" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/_praveen_saharan_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.leetcode.com/praveen40109" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/praveensaharan2002" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-</div>
-
-## Hackathon Projects
-
-<div align="center">
-  <a href="https://github.com/praveensaharan/Locovate-FOURSQUARE-Hackathon" target="_blank">
-    <img src="https://img.shields.io/badge/Locovate-FOURSQUARE_Hackathon-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Locovate FOURSQUARE Hackathon"/>
-  </a>
-  <a href="https://github.com/praveensaharan/SMILe-hackathon" target="_blank">
-    <img src="https://img.shields.io/badge/SMILe-Hackathon-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="SMILe Hackathon"/>
-  </a>
-</div>
-
-## Tech Stack
-
-### Frontend
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</div>
-
-### Backend
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-</div>
-
-### Database & Cloud
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
-</div>
-
-### AI/ML & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</div>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveensaharan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveensaharan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveensaharan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/praveen-saharan-2a0318203/"><img src="https://img.shields.io/badge/LinkedIn-Praveen_Saharan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:praveensaharan2002@gmail.com"><img src="https://img.shields.io/badge/Email-praveensaharan2002%40gmail.com-444444?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/praveen40109"><img src="https://img.shields.io/badge/LeetCode-praveen40109-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+## What I work on
 
-<div align="center">
-  <b>Thanks for visiting!</b>
-  <br/>
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</div>
+- **AI agents that are safe to put in front of real systems:** guardrails, human approval steps and signed audit trails.
+- **Full products, not just models:** Python and Node back ends, React front ends, deployed on Google Cloud, Azure, AWS and Vercel.
+- **Open-data maps for Japanese cities** built on GTFS transit data and PLATEAU 3D city models.
+
+## Selected projects
+
+### AI agents
+
+| Project | What it does | Built with |
+|---|---|---|
+| [**Sekisho**](https://github.com/praveensaharan/Sekisho) | An install guard for coding agents. Every npm package an agent tries to install runs first in a sandbox baited with fake secrets, is checked against npm, OSV and recent news, and is read by an independent model. Plain code then decides: allow, hold for a person, or block. Built at Agent Forge, Plug and Play Shibuya. | Daytona, Nosana, Tavily, AgentField |
+| [**RoleSpace**](https://github.com/praveensaharan/RoleSpace) | Gives every person in a software company the right level of AI for their role, from one policy file, with a spending kill switch. | Gemini on Vertex AI, Agent Development Kit, Cloud Run, Firestore |
+| [**RoleEdge**](https://github.com/praveensaharan/RoleEdge) | Helps families care for a parent who lives far away. A team of agents turns a shared reel, link or note into something the parent can follow, checks it first, and tells the family how they are doing. On 41 real reels, the judged score for each reel's best moment rose from 3.61 to 4.31 (out of 5); 175 tests. | Python, Meta models |
+| [**FirstRound**](https://github.com/praveensaharan/firstround) | Replaces the first-round phone screen with a live AI avatar that asks follow-up questions based on the candidate's answers, then scores the transcript for the recruiter. Hackvatar 2026. | Perxona Connect Kit, JavaScript |
+| [**Around Me AI**](https://github.com/praveensaharan/Locovate-FOURSQUARE-Hackathon) | Suggests places nearby from your mood, the weather, the time of day and your location. Foursquare hackathon. [Live demo](https://locovate-foursquare-hackathon.vercel.app) | React, Tailwind CSS, Google Maps |
+
+### Open data for Japanese cities (Urban Data Challenge 2026)
+
+| Project | What it does | Built with |
+|---|---|---|
+| [**Votes Within Reach**](https://github.com/praveensaharan/todoku-ippyo) (とどく一票) | Maps how long residents aged 75+ without a car take to reach a polling station in Toyota City, and proposes stops for mobile early-voting stations. 75% of residents aged 75+ live more than 20 minutes from an early-voting station. [Project page](https://praveensaharan.github.io/todoku-ippyo/en/) | GTFS, web mapping |
+| [**Ghost Roads Map**](https://github.com/praveensaharan/yurei-doro-map) (幽霊道路マップ) | Maps city-planning roads still unbuilt decades after approval, and the buildings standing on their planned lines, across 96 cities. [Project page](https://praveensaharan.github.io/yurei-doro-map/en/) | PLATEAU 3D city models, GSI aerial photos |
+
+### Tools
+
+| Project | What it does | Built with |
+|---|---|---|
+| [**FutureSpin**](https://github.com/praveensaharan/random) | A slot machine for learning upcoming tech topics, plus an interview-prep page for AI Engineer and Forward Deployed Engineer roles with 155 curated learning links. [Live](https://praveensaharan.github.io/random/) | JavaScript, HTML, CSS |
+| [**JP-Training**](https://github.com/praveensaharan/JP-Training) | Subscribes to training slots and books classes automatically. [Live](https://jp-training.vercel.app/) | JavaScript, Python, GitHub Actions |
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,go,java,react,nodejs,express,fastapi,flask,tailwind&perline=11" alt="Languages and frameworks: Python, TypeScript, JavaScript, Go, Java, React, Node.js, Express, FastAPI, Flask, Tailwind CSS">
+  <br>
+  <img src="https://skillicons.dev/icons?i=gcp,azure,aws,firebase,mongodb,mysql,redis,pytorch,tensorflow,git,postman&perline=11" alt="Cloud, data and tools: Google Cloud, Azure, AWS, Firebase, MongoDB, MySQL, Redis, PyTorch, TensorFlow, Git, Postman">
+</p>
